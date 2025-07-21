@@ -1,0 +1,1203 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.6.4)  3 JUL 2025 14:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**writeup.tex
+(./writeup.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count270
+\Gm@cntv=\count271
+\c@Gm@tempcnt=\count272
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count273
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/ltablex/ltablex.sty
+Package: ltablex 2014/08/13 v1.1 Modified tabularx
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count274
+\LTcapwidth=\dimen150
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@gbox=\box56
+\LT@cols=\count275
+\LT@rows=\count276
+\c@LT@tables=\count277
+\c@LT@chunks=\count278
+\LT@p@ftn=\toks19
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen151
+\ar@mcellbox=\box57
+\extrarowheight=\dimen152
+\NC@list=\toks20
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box58
+)
+\TX@col@width=\dimen153
+\TX@old@table=\dimen154
+\TX@old@col=\dimen155
+\TX@target=\dimen156
+\TX@delta=\dimen157
+\TX@cols=\count279
+\TX@ftn=\toks21
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen158
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen159
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count280
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count281
+\leftroot@=\count282
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count283
+\DOTSCASE@=\count284
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box59
+\strutbox@=\box60
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen160
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count285
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count286
+\dotsspace@=\muskip17
+\c@parentequation=\count287
+\dspbrk@lvl=\count288
+\tag@help=\toks23
+\row@=\count289
+\column@=\count290
+\maxfields@=\count291
+\andhelp@=\toks24
+\eqnshift@=\dimen161
+\alignsep@=\dimen162
+\tagshift@=\dimen163
+\tagwidth@=\dimen164
+\totwidth@=\dimen165
+\lineht@=\dimen166
+\@envbody=\toks25
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip60
+\f@nch@offset@elh=\skip61
+\f@nch@offset@erh=\skip62
+\f@nch@offset@olh=\skip63
+\f@nch@offset@orh=\skip64
+\f@nch@offset@elf=\skip65
+\f@nch@offset@erf=\skip66
+\f@nch@offset@olf=\skip67
+\f@nch@offset@orf=\skip68
+\f@nch@height=\skip69
+\f@nch@footalignment=\skip70
+\f@nch@widthL=\skip71
+\f@nch@widthC=\skip72
+\f@nch@widthR=\skip73
+\@temptokenb=\toks27
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen167
+\Gin@req@width=\dimen168
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count292
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen169
+\Hy@linkcounter=\count293
+\Hy@pagecounter=\count294
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count295
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count296
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen170
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count297
+\Field@Width=\dimen171
+\Fld@charsize=\dimen172
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count298
+\c@Item=\count299
+\c@Hfootnote=\count300
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count301
+\c@bookmark@seq@number=\count302
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip74
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box61
+\beforetitleunit=\skip75
+\aftertitleunit=\skip76
+\ttl@plus=\dimen173
+\ttl@minus=\dimen174
+\ttl@toksa=\toks28
+\titlewidth=\dimen175
+\titlewidthlast=\dimen176
+\titlewidthfirst=\dimen177
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip77
+\cftbeforetoctitleskip=\skip78
+\cftaftertoctitleskip=\skip79
+\cftbeforepartskip=\skip80
+\cftpartnumwidth=\skip81
+\cftpartindent=\skip82
+\cftbeforesecskip=\skip83
+\cftsecindent=\skip84
+\cftsecnumwidth=\skip85
+\cftbeforesubsecskip=\skip86
+\cftsubsecindent=\skip87
+\cftsubsecnumwidth=\skip88
+\cftbeforesubsubsecskip=\skip89
+\cftsubsubsecindent=\skip90
+\cftsubsubsecnumwidth=\skip91
+\cftbeforeparaskip=\skip92
+\cftparaindent=\skip93
+\cftparanumwidth=\skip94
+\cftbeforesubparaskip=\skip95
+\cftsubparaindent=\skip96
+\cftsubparanumwidth=\skip97
+\cftbeforeloftitleskip=\skip98
+\cftafterloftitleskip=\skip99
+\cftbeforefigskip=\skip100
+\cftfigindent=\skip101
+\cftfignumwidth=\skip102
+\c@lofdepth=\count303
+\c@lotdepth=\count304
+\cftbeforelottitleskip=\skip103
+\cftafterlottitleskip=\skip104
+\cftbeforetabskip=\skip105
+\cfttabindent=\skip106
+\cfttabnumwidth=\skip107
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box62
+\fn@width=\dimen178
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count305
+\float@exts=\toks29
+\float@box=\box63
+\@float@everytoks=\toks30
+\@floatcapt=\box64
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen179
+\lightrulewidth=\dimen180
+\cmidrulewidth=\dimen181
+\belowrulesep=\dimen182
+\belowbottomsep=\dimen183
+\aboverulesep=\dimen184
+\abovetopsep=\dimen185
+\cmidrulesep=\dimen186
+\cmidrulekern=\dimen187
+\defaultaddspace=\dimen188
+\@cmidla=\count306
+\@cmidlb=\count307
+\@aboverulesep=\dimen189
+\@belowrulesep=\dimen190
+\@thisruleclass=\count308
+\@lastruleclass=\count309
+\@thisrulewidth=\dimen191
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip108
+\RaggedLeftLeftskip=\skip109
+\RaggedRightLeftskip=\skip110
+\CenteringRightskip=\skip111
+\RaggedLeftRightskip=\skip112
+\RaggedRightRightskip=\skip113
+\CenteringParfillskip=\skip114
+\RaggedLeftParfillskip=\skip115
+\RaggedRightParfillskip=\skip116
+\JustifyingParfillskip=\skip117
+\CenteringParindent=\skip118
+\RaggedLeftParindent=\skip119
+\RaggedRightParindent=\skip120
+\JustifyingParindent=\skip121
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/threeparttablex/threeparttablex.s
+ty
+Package: threeparttablex 2013/07/23 v0.3 by daleif
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box65
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\TPTL@width=\skip122
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
+6.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count310
+\l__pdf_internal_box=\box66
+)
+(./writeup.aux)
+\openout1 = `writeup.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count311
+\scratchdimen=\dimen192
+\scratchbox=\box67
+\nofMPsegments=\count312
+\nofMParguments=\count313
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count314
+\MPscratchDim=\dimen193
+\MPnumerator=\count315
+\makeMPintoPDFobject=\count316
+\everyMPtoPDFconversion=\toks32
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 46.
+
+(./writeup.out) (./writeup.out)
+\@outlinefile=\write3
+\openout3 = `writeup.out'.
+
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 49.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 49.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 49.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 49.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+
+
+[1
+
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
+al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./writeup.toc)
+\tf@toc=\write4
+\openout4 = `writeup.toc'.
+
+
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+
+
+[4]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@@underline' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 92.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 92.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+<../Screenshots/AnkiHome.png, id=67, 1065.9825pt x 956.57375pt>
+File: ../Screenshots/AnkiHome.png Graphic file (type png)
+<use ../Screenshots/AnkiHome.png>
+Package pdftex.def Info: ../Screenshots/AnkiHome.png  used on input line 104.
+(pdftex.def)             Requested size: 317.07614pt x 284.52219pt.
+
+
+[5]
+<../Screenshots/AnkiFlashcard.png, id=73, 1730.465pt x 1270.7475pt>
+File: ../Screenshots/AnkiFlashcard.png Graphic file (type png)
+<use ../Screenshots/AnkiFlashcard.png>
+Package pdftex.def Info: ../Screenshots/AnkiFlashcard.png  used on input line 1
+11.
+(pdftex.def)             Requested size: 317.07614pt x 232.83536pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 145.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 145.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 145.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]|\OT1/ptm/m/n/12 Proven Spaced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\OT1/ptm/m/n/12 Rep-e-ti-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]|\OT1/ptm/m/n/12 Cross-Platform
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+[]|\OT1/ptm/m/n/12 Extensive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+[]|\OT1/ptm/m/n/12 Syncing via
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]|\OT1/ptm/m/n/12 Mobile Re-view
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+[]|\OT1/ptm/m/n/12 Scheduling
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]|\OT1/ptm/m/n/12 Multi-Language
+ []
+
+
+
+[6
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.186 \end{longtable}
+                     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.186 \end{longtable}
+                      <../Screenshots/AnkiHome.png> <../Screenshots/AnkiFlashca
+rd.png>] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 218--218
+[]|\OT1/ptm/m/n/12 Steep Learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+[]|\OT1/ptm/m/n/12 Manual Card
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--222
+[]|\OT1/ptm/m/n/12 Complex Deck
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 224--224
+[]|\OT1/ptm/m/n/12 Lack of In-te-grated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
+[]|\OT1/ptm/m/n/12 Limited Built-in
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 228--228
+[]|\OT1/ptm/m/n/12 Inconsistent Cross-
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 230--230
+[]|\OT1/ptm/m/n/12 No Built-in Study
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]|\OT1/ptm/m/n/12 Overwhelming
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 242.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@@underline' on input line 242.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 242.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 242.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 242.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 242.
+
+<../Screenshots/QuizletSM2.png, id=89, 2131.965pt x 1989.4325pt>
+File: ../Screenshots/QuizletSM2.png Graphic file (type png)
+<use ../Screenshots/QuizletSM2.png>
+Package pdftex.def Info: ../Screenshots/QuizletSM2.png  used on input line 245.
+
+(pdftex.def)             Requested size: 317.07614pt x 295.85208pt.
+
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+
+
+[9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.257 
+       <../Screenshots/QuizletSM2.png>]
+Underfull \hbox (badness 2856) in paragraph at lines 319--319
+[]\OT1/ptm/m/n/12 Table 4: Qui-zlet Fea-tures to Im-prove and Pro-posed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+[]|\OT1/ptm/m/n/12 Algorithm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+[]|\OT1/ptm/m/n/12 Mobile
+ []
+
+
+
+[10]
+<../Screenshots/QuizletFlashcard.png, id=106, 1708.3825pt x 1272.755pt>
+File: ../Screenshots/QuizletFlashcard.png Graphic file (type png)
+<use ../Screenshots/QuizletFlashcard.png>
+Package pdftex.def Info: ../Screenshots/QuizletFlashcard.png  used on input lin
+e 366.
+(pdftex.def)             Requested size: 226.48395pt x 168.72662pt.
+
+
+[11]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 371.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@@underline' on input line 371.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 371.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 371.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 371.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 371.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--374
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+
+ []
+
+
+
+[12
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.379 \newpage
+               <../Screenshots/QuizletFlashcard.png>]
+Overfull \hbox (28.49522pt too wide) in alignment at lines 387--392
+ [] [] [] 
+ []
+
+
+Overfull \hbox (28.49522pt too wide) in alignment at lines 392--399
+ [] [] [] 
+ []
+
+
+Overfull \hbox (28.49522pt too wide) in alignment at lines 399--402
+ [] [] [] 
+ []
+
+
+Overfull \hbox (28.49522pt too wide) in alignment at lines 402--406
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+[]|\OT1/ptm/m/n/12 Adaptive Spaced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+[]|\OT1/ptm/m/n/12 Dynamically ad-justs flash-card
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 408--408
+\OT1/ptm/m/n/12 re-view in-ter-vals based on user-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--410
+[]|\OT1/ptm/m/n/12 User-Generated
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 412--412
+[]|\OT1/ptm/m/n/12 Extensive database of subject-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--414
+[]|\OT1/ptm/m/n/12 Cross-Platform
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--414
+[]|\OT1/ptm/m/n/12 Flashcards are synced across
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 414--414
+\OT1/ptm/m/n/12 de-vices in real time (web and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--416
+[]|\OT1/ptm/m/n/12 Clean and distraction-free UI
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--418
+[]|\OT1/ptm/m/n/12 Confidence-Based
+ []
+
+
+Underfull \hbox (badness 5652) in paragraph at lines 418--418
+[]|\OT1/ptm/m/n/12 Users rate their un-der-stand-ing
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 422--422
+[]|\OT1/ptm/m/n/12 Tracks study time, con-fi-dence
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 428--428
+[]|\OT1/ptm/m/n/12 No multi-user deck edit-ing or
+ []
+
+
+Overfull \hbox (28.49522pt too wide) in alignment at lines 406--432
+ [] [] [] 
+ []
+
+
+Overfull \hbox (11.42339pt too wide) in alignment at lines 443--448
+ [] [] [] 
+ []
+
+
+Overfull \hbox (11.42339pt too wide) in alignment at lines 448--455
+ [] [] [] 
+ []
+
+
+Overfull \hbox (11.42339pt too wide) in alignment at lines 455--458
+ [] [] [] 
+ []
+
+
+Overfull \hbox (11.42339pt too wide) in alignment at lines 458--462
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--464
+[]|\OT1/ptm/m/n/12 Adaptive Spaced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--466
+[]|\OT1/ptm/m/n/12 User-Generated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--468
+[]|\OT1/ptm/m/n/12 Pre-Made Deck
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--470
+[]|\OT1/ptm/m/n/12 Cross-Platform
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
+[]|\OT1/ptm/m/n/12 Confidence-Based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--476
+[]|\OT1/ptm/m/n/12 Premium
+ []
+
+
+Overfull \hbox (11.42339pt too wide) in alignment at lines 462--479
+ [] [] [] 
+ []
+
+
+
+[13]
+<../Screenshots/BrainscapeFlashcard.png, id=124, 544.0325pt x 1150.2975pt>
+File: ../Screenshots/BrainscapeFlashcard.png Graphic file (type png)
+<use ../Screenshots/BrainscapeFlashcard.png>
+Package pdftex.def Info: ../Screenshots/BrainscapeFlashcard.png  used on input 
+line 484.
+(pdftex.def)             Requested size: 90.5922pt x 191.54611pt.
+
+
+[14
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.489 \newpage
+               <../Screenshots/BrainscapeFlashcard.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 5
+02.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+
+ []
+
+
+
+[15]
+
+[16]
+Overfull \hbox (7.88629pt too wide) in paragraph at lines 592--593
+\OT1/ptm/m/n/12 au-to-matic flash-card gen-er-a-tion from user notes, these mod
+-els can strug-gle with hand-writ-ten
+ []
+
+
+
+[17]
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.622 \documentclass
+                    {article}
+? x
+ 
+Here is how much of TeX's memory you used:
+ 11606 strings out of 473190
+ 182175 string characters out of 5715801
+ 611936 words of memory out of 5000000
+ 34626 multiletter control sequences out of 15000+600000
+ 604583 words of font info for 125 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,11n,79p,984b,590s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
+r/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/te
+xlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025
+/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on writeup.pdf (17 pages, 1059628 bytes).
+PDF statistics:
+ 193 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+
